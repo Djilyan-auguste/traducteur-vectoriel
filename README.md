@@ -1,4 +1,4 @@
-# Traducteur Vectoriel
+# Vector Translator
 
 A mechanistic interpretability research project that extracts, decodes, and tests causal control of semantic concepts from the internal activations of GPT-2 small (124M parameters).
 
